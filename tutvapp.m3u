@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176000.jpg?w=1119&h=1019" group-title="Peliculas",CINE PREMIUM
+http://38.43.151.206:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176011.jpg?w=1119&h=1019" group-title="Peliculas",CINE FAMILIAR
+http://38.43.151.206:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176023.jpg?w=1119&h=1019" group-title="Peliculas",CINE HISPANO
+http://38.43.151.206:8000/play/a069/index.m3u8
