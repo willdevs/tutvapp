@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176000.jpg?w=1119&h=1019" group-title="Peliculas",CINE PREMIUM
-http://38.43.151.206:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176011.jpg?w=1119&h=1019" group-title="Peliculas",CINE FAMILIAR
-http://38.43.151.206:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176023.jpg?w=1119&h=1019" group-title="Peliculas",CINE HISPANO
-http://38.43.151.206:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Peliculas",CINE PREMIUM
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinepremium/playlist.m3u8
+#EXTINF:-1 tvg-id="2" group-title="Peliculas",CINE FAMILIAR
+http://38.43.151.206:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="3" group-title="Peliculas",CINE HISPANO
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinehispano/playlist.m3u8
+#EXTINF:-1 tvg-id="4" group-title="Peliculas",CINECANAL
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/cinecanal/playlist.m3u8
+#EXTINF:-1 tvg-id="5" group-title="Deporte",UNIVERSAL
+http://bantel-cdn1.iptvperu.tv:1935/cdnalh/ESPN.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="6" group-title="Deporte",CLASSIC
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/Classic/playlist.m3u8
+#EXTINF:-1 tvg-id="7" group-title="Deporte",FMH MOVIES
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/FMH_Movies/playlist.m3u8
+#EXTINF:-1 tvg-id="8" group-title="Deporte",DHE
+http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/dhe/playlist.m3u8
