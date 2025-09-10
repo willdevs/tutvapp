@@ -1,22 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FJO1fdcV3Aqa1n0HsHorlDuZ_UBwXIER_z1wKr48IaoyH5Xj8dKnDjM7dywwwhkWqqdfgH_tFYsAlcC5TsgmCaHgK546PoIAepq37TxS_i3X5o8ZZTRJLQ3jPlQil7hoBK7WOjtP7Ww6pHEf0-3bZn_pp2xubCUfScLKhivqFl_9mWnNWpL9do5GAg/s1600/ESPN.jpg" group-title="Deportes",eESPN
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FJO1fdcV3Aqa1n0HsHorlDuZ_UBwXIER_z1wKr48IaoyH5Xj8dKnDjM7dywwwhkWqqdfgH_tFYsAlcC5TsgmCaHgK546PoIAepq37TxS_i3X5o8ZZTRJLQ3jPlQil7hoBK7WOjtP7Ww6pHEf0-3bZn_pp2xubCUfScLKhivqFl_9mWnNWpL9do5GAg/s1600/ESPN.jpg" group-title="Deportes",ESPN
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Cultural",LIGA 1 MAX
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJzdNM5Fzpw2mtj8zAFnuMdPyuYBmjO6tZBXo-12Do9L6F-rF-2T4tkzZatTyY1hivMT2rPrzCDEpYo-O5c9FGef4nLeCFDEzh6NDI8GawyY0vj08JhfvcHU1jb4Ptt0xdqCE0FnaqHlLWScht-omBYHo6Mkw6_-O-YQN3ihLH3w3QUrzuXPDPm6WqSw/s1600/CINEMAS.jpg" group-title="Cultural",LIGA 1 MAX
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bantel-deportes/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Infantil",Disney Jr
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWvN4Nsm8wFP4ElmuT9jPKbQd-0orE-24H9bd3m3fALOmQTNESJZVbRV3Nw_IWaZ7CW4_IYTm2fLmPQz-yrMP3nThpnKw6JwWT-0dgYneR6eu8ddDAlDa32ggv2VSCSjOA2xQKZHnWv38-ScXr9al4V3W0r-3I2z7t9ahkgC9j9xzpRrj4SYoNrVfA3g/s1600/DISNEY-JR.jpg" group-title="Infantil",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzmwUTnvJKsKdG3i2ICd72NYf0GZjOhA5OHZHu4XHarFuG9hfJ9ZKQVH-eNx0S4UcjhIHuByKX9xDFvTHvnU3sFh-rin1-PVb4t8yoPZA-ldpzRq8BtHE-9_xBsGen16hEJJpGWKbuIa0bn_QsnjncgBYgPhzyNYJ-DBhqNPwNn9MipjX71nZAoyDEQ/s1600/ESPN-2.jpg" group-title="Deportes",ESPN 2
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN2/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NppfQ8ZH3sfpr5OUFhSXmZmC9-yvkiOoPc3ofHLa0MKp7ABGIu5c7kBjz9JONchXEX7vw4fpgmXIBaqi4hOHcmaUwy4uAiX-Xh-fcbkFct_Wqb21aWWDJfcWzyZRW1Z9JSOvIf9XfUO_8foHXKNOjebiOPcTFW3-8gSG5u7aa6U5mQtZm3k5Y4xmcw/s1600/ESPN-3.jpg" group-title="Deportes",ESPN 3
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN3/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 4
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4llaves/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 5
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTKa8dj60BYecDKiqn8gc5kmWMiSEsYoTlxAsvbWMjfWSGXMy3TADiMATdROGlpwBOyv9ybekEJBDn8OREPdul2ZHTLLunaBgK-BzW8m3Hr3PmdbK8l9PN438hR5rO9-iVBE_4wVyXIqc3bIMNAJnncl5zv35DPldJMvtatbEtPqbxPirF84eSuiY5lQ/s1600/ESPN-4.jpg" group-title="Deportes",ESPN 4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguLIeiq16nIHPrAiIo6xd-0ju7aS6PNaHS0liXa2XnhSUiHmSagUi0pjY-odv8CD3ipcDgxeKhcu4AQrLl9QIM7qtDDdcLgbzZ2iOJpqsHk4lZNJhU3U7pRhRJfJW0CtHNFXgMtMrnSrCIjtS2C_hZRcgv_0oArOQsxsaoEH_laF-c_cosEOKOFe0E7g/s1600/ESPN-5.jpg" group-title="Deportes",ESPN 5
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 6
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhliT9MSZdOBQVBgv53uu4gyb_g-JZkvVvJLIa9Nsyiq2mpAS_KzQ2iIOQ2HUuBMQLoUNIastijbKhB4OxBtH38LazzS4MNCREczLv7HFH7aaap_ECsKweDOlV8eDMyPOjl9AKoc1YDGtxmPSrJKJA5ZEhwyhnqifCqwELWL5Hh6ilnmaiCkubPYuJ6AA/s1600/ESPN-6.jpg" group-title="Deportes",ESPN 6
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN6/playlist.m3u8
-#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 7
+#EXTINF:-1 tvg-id="1" tvg-name="ESPN 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaqSSncs7HaqXrxeJIrF6vRc9VqR9hI9X9zs7mUZuYxzblk905NBJsDflZVIWvTcupdtmKDZ-rV4GvPjBWxA5hvDlGglJxMKk3i65S8hOrIZ7hsgUjTuhPxxKzaGIpYZ6hNjng-VI8PHTtVDHYh-5Cbc8l3G98fDfu6A4z0zs0pxYD_mPfkVb7omkEAg/s1600/ESPN-7.jpg" group-title="Deportes",ESPN 7
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN7/playlist.m3u8
+
 
 
 
