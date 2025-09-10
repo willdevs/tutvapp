@@ -1,7 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3FJO1fdcV3Aqa1n0HsHorlDuZ_UBwXIER_z1wKr48IaoyH5Xj8dKnDjM7dywwwhkWqqdfgH_tFYsAlcC5TsgmCaHgK546PoIAepq37TxS_i3X5o8ZZTRJLQ3jPlQil7hoBK7WOjtP7Ww6pHEf0-3bZn_pp2xubCUfScLKhivqFl_9mWnNWpL9do5GAg/s1600/ESPN.jpg" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Cultural",LIGA 1 MAX
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/bantel-deportes/playlist.m3u8
 #EXTINF:-1 tvg-id="1" group-title="Infantil",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 2
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN2/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 3
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN3/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 4
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4llaves/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 5
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 6
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN6/playlist.m3u8
+#EXTINF:-1 tvg-id="1" group-title="Deportes",ESPN 7
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN7/playlist.m3u8
+
